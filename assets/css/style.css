@@ -39122,6 +39122,11 @@ footer.bg-dark.angled.lower-start:after, footer.bg-dark.angled.upper-start:befor
   .fs-13{
       font-size: 13px !important;
   }
+  .read_more{
+      color: #f70 !important;
+      font-size: 11px;
+      text-decoration: underline;
+  }
 
 
 
